@@ -3,7 +3,7 @@ import css from "../Images/Icons/css-3.svg";
 import js from "../Images/Icons/logo-javascript.svg";
 import react from "../Images/Icons/react-2.svg";
 import redux from "../Images/Icons/redux.svg";
-import mongo from "../Images/Icons/mysql-original-wordmark.svg";
+import mongo from "../Images/Icons/mongodb-icon-1.svg";
 import node from "../Images/Icons/nodejsLight.svg";
 import exp from "../Images/Icons/download (2).png";
 import github from "../Images/Icons/GitHub-Mark.png";
