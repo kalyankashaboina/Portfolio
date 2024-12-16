@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.ba90aa24.css",
-    "main.js": "/Portfolio/static/js/main.8391fc09.js",
-    "static/js/488.f30ea4ab.chunk.js": "/Portfolio/static/js/488.f30ea4ab.chunk.js",
+    "main.css": "/Portfolio/static/css/main.d590b466.css",
+    "main.js": "/Portfolio/static/js/main.b2b2fe0c.js",
+    "static/js/685.caa459a4.chunk.js": "/Portfolio/static/js/685.caa459a4.chunk.js",
     "static/media/kalyan-portfolio.png": "/Portfolio/static/media/kalyan-portfolio.8a8dbb7fd650b1ab1a87.png",
     "static/media/kalyan1.jpg": "/Portfolio/static/media/kalyan1.7b7df18b2130e628558c.jpg",
     "static/media/hostel-coverpic.png": "/Portfolio/static/media/hostel-coverpic.4495abbdbee445242470.png",
@@ -17,13 +17,10 @@
     "static/media/logo-javascript.svg": "/Portfolio/static/media/logo-javascript.00f3e5cf8bcf4ae623b3835ca5791b15.svg",
     "index.html": "/Portfolio/index.html",
     "static/media/css-3.svg": "/Portfolio/static/media/css-3.4e47c3122b8d2476a02f97dcfcb28640.svg",
-    "static/media/html-1.svg": "/Portfolio/static/media/html-1.f318c8b1d5945fa9adc827ae94849cb1.svg",
-    "main.ba90aa24.css.map": "/Portfolio/static/css/main.ba90aa24.css.map",
-    "main.8391fc09.js.map": "/Portfolio/static/js/main.8391fc09.js.map",
-    "488.f30ea4ab.chunk.js.map": "/Portfolio/static/js/488.f30ea4ab.chunk.js.map"
+    "static/media/html-1.svg": "/Portfolio/static/media/html-1.f318c8b1d5945fa9adc827ae94849cb1.svg"
   },
   "entrypoints": [
-    "static/css/main.ba90aa24.css",
-    "static/js/main.8391fc09.js"
+    "static/css/main.d590b466.css",
+    "static/js/main.b2b2fe0c.js"
   ]
 }
