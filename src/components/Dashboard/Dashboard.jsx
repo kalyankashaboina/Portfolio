@@ -21,7 +21,7 @@ function Dashboard() {
         </div>
 
         <div className="image-box">
-          <img src={kalyan1} />
+          <img src={kalyan1} alt="Kalyan" loading="lazy" />
         </div>
       </div>
     </>
