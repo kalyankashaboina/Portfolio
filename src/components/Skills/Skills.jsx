@@ -1,6 +1,6 @@
-import React from 'react';
+import React from "react";
 import "./Skills.css";
-import skillsArray from "../../data/Skills"; 
+import skillsArray from "../../data/Skills";
 const SkillsPage = () => {
   return (
     <div className="skills-container">
@@ -12,7 +12,11 @@ const SkillsPage = () => {
             <div className="skill-cards-container">
               {skillsArray[category].map((skill, skillIndex) => (
                 <div key={skillIndex} className="skill-card">
-                  <img src={skill.img} alt={skill.skill} className="skill-image" />
+                  <img
+                    src={skill.img}
+                    alt={skill.skill}
+                    className="skill-image"
+                  />
                   <h3 className="skill-name">{skill.skill}</h3>
                 </div>
               ))}
