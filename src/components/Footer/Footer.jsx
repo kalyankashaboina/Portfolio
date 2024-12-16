@@ -4,7 +4,7 @@ import "./footer.css";
 const Footer = () => {
   return (
     <footer className="footer">
-      <p>© 2024 Your Name. All Rights Reserved.</p>
+      <p>© 2024 Kalyan Kashaboina. All Rights Reserved.</p>
     </footer>
   );
 };
