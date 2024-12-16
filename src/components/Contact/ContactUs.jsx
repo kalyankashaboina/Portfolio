@@ -15,7 +15,7 @@ const ContactUsPage = () => {
 
         <div className="contact-links">
           <a
-            href="www.linkedin.com/in/kashaboina-kalyan-308495284"
+            href="https://www.linkedin.com/in/kashaboina-kalyan-308495284/"
             className="contact-link linkedin"
             target="_blank"
             rel="noopener noreferrer"
